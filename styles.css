@@ -8,3 +8,15 @@ body {
   margin: 0;
 }
 
+header, footer {
+  width: 1000px;
+  display: center;
+}
+
+header {
+  height: 150px;
+  background-color: #141a1a;
+  background-image: images/bowl.jpg;
+  color: white;
+}
+
